@@ -1,0 +1,29 @@
+{
+  "name": "bootstrapproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjkun/bootstrapproject.git"
+  },
+  "keywords": [],
+  "author": "Juan Jose Perea <juan.jose1983@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/jjkun/bootstrapproject/issues"
+  },
+  "homepage": "https://github.com/jjkun/bootstrapproject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-util": "^3.0.8"
+  }
+}
